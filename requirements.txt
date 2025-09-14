@@ -24,3 +24,19 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# Deployment
+streamlit
+
+#assumptions
+spacy
+textstat
+nltk
+
+# Coherence and accuracy calculation
+language-tool-python
+textstat
+torch
+transformers
+sentence_transformers
+
